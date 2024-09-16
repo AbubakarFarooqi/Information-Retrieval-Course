@@ -1,0 +1,5 @@
+Title: Introduction to Machine Learning
+
+Machine learning is a branch of artificial intelligence (AI) that focuses on building systems capable of learning from data. These systems can make predictions, classifications, and decisions without being explicitly programmed. Key techniques in machine learning include supervised learning, unsupervised learning, and reinforcement learning.
+
+Applications of machine learning range from image recognition and speech processing to recommendation systems and self-driving cars. As data becomes more abundant, machine learning continues to advance and drive innovation across industries.
